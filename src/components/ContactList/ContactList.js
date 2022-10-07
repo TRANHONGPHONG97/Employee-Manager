@@ -38,8 +38,8 @@ function ContactList() {
 
   const handleRemoveContact = (contact) => {
     confirmAlert({
-      title: "Confirm to remove",
-      message: "Are you sure to do this?",
+      title: "XÓA NHÂN VIÊN",
+      message: "Bạn chắc chắn xóa không?",
       buttons: [
         {
           label: "Yes",
@@ -114,7 +114,7 @@ function ContactList() {
       <section className="add-contact-area my-3">
         <div className="container">
           <div className="d-flex align-items-center">
-            <h3 className="fw-bolder">Contact Manage</h3>
+            <h3 className="fw-bolder">Employee Manager</h3>
             <Link
               to={"/cg-contact/contact/add"}
               className="btn btn-primary btn-sm ms-2 "

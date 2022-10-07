@@ -130,7 +130,7 @@ function EditContact() {
     <React.Fragment>
       <section className="update-contact my-3">
         <div className="container">
-          <h4 className="text-primary">Edit Contact</h4>
+          <h4 className="text-primary">Edit Employee</h4>
           <p className="fst-italic">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
             possimus fugiat ratione harum qui expedita quo cum excepturi labore.

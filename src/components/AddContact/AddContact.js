@@ -136,7 +136,7 @@ function AddContact() {
     <>
       <section className="create-contact-info">
         <div className="container">
-          <h3 className="fw-bolder text-success">Create Contact</h3>
+          <h3 className="fw-bolder text-success">Create Employee</h3>
           <p className="fst-italic">
             Anim id aliqua cillum duis. Amet consequat incididunt culpa non.
             Aute ea tempor officia elit ut. Cupidatat proident amet est dolore

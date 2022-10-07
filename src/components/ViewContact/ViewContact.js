@@ -38,7 +38,7 @@ function ViewContact() {
             <section className='view-contact-info'>
                 <div className="container">
                     <div className="d-flex align-items-center">
-                        <h3 className="fw-bolder text-warning">View Contact</h3>
+                        <h3 className="fw-bolder text-warning">View Employee</h3>
                         <Link to={"/cg-contact/contact/list"} className="btn btn-warning btn-sm ms-2">
                             <i className="fa fa-backward me-2"></i>
                             Back
